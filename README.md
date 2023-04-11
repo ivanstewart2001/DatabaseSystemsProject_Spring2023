@@ -1,5 +1,7 @@
 # Database Systems Project Spring 2023
 
+Rubric: https://www.cs-howard.net/liu/Database/DatabaseProject.html
+
 Steps
 - clone repository
 - run script.py once ( a file called GradeBook.db should be generated in project root directory )
